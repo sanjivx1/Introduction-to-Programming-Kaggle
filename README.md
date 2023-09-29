@@ -1,2 +1,2 @@
-# Introduction-to-Programming-Kaggle
-Intro to Programming | Kaggle | Exercises
+# Kaggle-Learn
+Interesting notebooks to check out from the Kaggle Learn courses.
